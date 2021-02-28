@@ -37,4 +37,7 @@ https://www.nuget.org/packages/dotnet-ef/5.0.3
 
 dotnet ef database update  
 
-SQLite alexcvzz.vscode-sqlite
+SQLite alexcvzz.vscode-sqlite![Screenshot_2021-02-28 Swagger UI]
+
+(https://user-images.githubusercontent.com/12700182/109419470-a22ffd80-79f3-11eb-9fbd-7a8a77f40bdd.png)
+
