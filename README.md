@@ -41,3 +41,12 @@ SQLite alexcvzz.vscode-sqlite
 
 ![Screenshot_2021-02-28 Swagger UI](https://user-images.githubusercontent.com/12700182/109419470-a22ffd80-79f3-11eb-9fbd-7a8a77f40bdd.png)
 
+dotnet ef migrations add UserPasswordAdded
+dotnet ef database update
+
+dotnet ef database drop
+
+
+System.IdentityModel.Tokens.Jwt by Microsoft
+
+Microsoft.AspNetCore.Authentication.JwtBearer
